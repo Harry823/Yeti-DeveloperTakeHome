@@ -1,4 +1,4 @@
-#This project is an exercise for React JS. Full implementation lies in App.js, styling is located at App.css. Thank you for taking a look!
+# This project is an exercise for React JS. Full implementation lies in App.js, styling is located at App.css. Thank you for taking a look!
 
 
 # Getting Started with Create React App
