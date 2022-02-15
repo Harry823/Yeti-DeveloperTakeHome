@@ -24,6 +24,7 @@
   line-height: 1.77;
   letter-spacing: normal;
   color: #fff;
+  -webkit-text-fill-color: transparent;
 }
 .About-section h1 {
   height: 140px;
